@@ -18,7 +18,7 @@
 ## 🛠️ Tools
 <div align="left">
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
