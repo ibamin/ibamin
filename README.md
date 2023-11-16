@@ -28,4 +28,5 @@
 </div>
 
 ## 🗂️ ETC
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibamin&layout=compact">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibamin&layout=compact)
+
