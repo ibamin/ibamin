@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=tlagmlwns_Github!&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=NKL_Github!&fontSize=70" />
 
 ## 💻 Lauguage
 <div align="left">
