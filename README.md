@@ -20,12 +20,12 @@
 <div align="left">
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS EC2-000000?style=flat&logo=Flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mitre Attack-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyper V-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-000000?style=flat&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Utils-007ACC?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyper%20V-3DDC84?style=flat&logo=hyper-v&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vmware-607078?style=flat&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/realVNC-00599C?style=flat&logo=realVNC&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenVPN-00599C?style=flat&logo=openvpn&logoColor=white" />
 </div>
 
 ## 🗂️ ETC
